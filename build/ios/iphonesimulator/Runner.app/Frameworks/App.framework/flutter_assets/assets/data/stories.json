@@ -1,0 +1,28 @@
+{
+    "stories": {
+        "cathedrals": {
+            "title": "Cathedrals and Churches of Basel",
+            "text": "Basel Minster, built in Romanesque and Gothic styles, is one of the city's most recognizable landmarks. Its red sandstone walls and towers commemorate medieval architecture. A legend says that one of the cathedrals houses the relics of Saint Felix, brought to Basel in the 10th century and played a significant role in attracting pilgrims to the city. Another interesting story is connected to St. Peter's Church, which became one of the first churches to remove its decorations and icons during the Reformation to align with new religious teachings."
+        },
+        "bridges": {
+            "title": "Bridges of Basel",
+            "text": "Basel's bridges not only connect parts of the city across the Rhine River but also witness its history. The oldest bridge, the Mittlere Brücke, was constructed in 1226 and was initially wooden. An interesting story is that during repairs in the 16th century, builders discovered a huge chest of gold coins at the bottom of the river, which belonged to a wealthy merchant lost during a flood. This bridge was also an important trade route connecting Basel with other European cities."
+        },
+        "buildings": {
+            "title": "Historical Buildings",
+            "text": "One of Basel's most famous historical buildings is the Town Hall (Rathaus), a vibrant red building in Marktplatz. Construction began in 1504, and its facade is decorated with frescoes depicting the city's valor and independence. Inside the Town Hall, there are unique antique clocks that were once used to synchronize all the clocks in the city. An interesting fact is that during the Napoleonic Wars, the Town Hall served not only as an administrative center but also as a refuge for the city's treasures and important documents saved from French troops."
+        },
+        "museums": {
+            "title": "Cultural Museums",
+            "text": "Basel is renowned for its museums, and one of the most famous is the Kunstmuseum, which houses a rich collection of works from the Renaissance to contemporary art. An intriguing story is related to the acquisition of 'The Dance of Death' by Hans Holbein. In 1824, the city's residents came together to raise funds to purchase this masterpiece, which was about to be sold abroad. This case became a vivid example of how Baselians value their cultural heritage."
+        },
+        "squares": {
+            "title": "Squares and Parks",
+            "text": "Barfüsserplatz, in the heart of Basel, has a rich history. In the Middle Ages, it was the site of a Franciscan monastery, which is where the square got its name. In the 16th century, the monastery was closed, and a bustling marketplace emerged in its place. Legend has it that underground tunnels still exist beneath the square, leading to the Rhine, which were used by the monastery for transporting goods and sheltering during city sieges. Regarding parks, Schützenmatt, one of the city's oldest parks, was once a place for duels and military parades, giving it special historical significance."
+        },
+        "monuments": {
+            "title": "Monuments and Sculptures",
+            "text": "One of Basel's most recognizable monuments is the Tinguely Fountain in Theaterplatz. This unusual fountain, created by artist Jean Tinguely, consists of moving metal sculptures, each symbolizing different aspects of city life. Initially, many residents perceived this avant-garde monument with confusion, but over time, it became one of Basel's main attractions. Another noteworthy monument is the statue of the Virgin Mary in the square near Basel Minster, which, according to legend, protected the city from plague epidemics in the Middle Ages."
+        }
+    }
+}

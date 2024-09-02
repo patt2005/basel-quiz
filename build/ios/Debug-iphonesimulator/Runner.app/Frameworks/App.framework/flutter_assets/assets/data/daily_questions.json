@@ -1,0 +1,424 @@
+{
+    "questions": {
+        "town": [
+            {
+                "question": "The Basel Minster was built in Romanesque and Gothic styles.",
+                "answer": true
+            },
+            {
+                "question": "Marktplatz is famous for its bright red Town Hall.",
+                "answer": true
+            },
+            {
+                "question": "Spalentor is the oldest city gate in Basel.",
+                "answer": true
+            },
+            {
+                "question": "There are no medieval streets in Basel's Old Town.",
+                "answer": false
+            },
+            {
+                "question": "The Mittlere Brücke is the oldest bridge over the Rhine in Basel.",
+                "answer": true
+            },
+            {
+                "question": "The Old Town of Basel has over 3,000 historical buildings.",
+                "answer": true
+            },
+            {
+                "question": "The House of Lesers is one of the oldest buildings in the Old Town.",
+                "answer": true
+            },
+            {
+                "question": "Basel Town Hall was built in the 18th century.",
+                "answer": false
+            },
+            {
+                "question": "Freie Strasse is known for its shops and boutiques.",
+                "answer": true
+            },
+            {
+                "question": "Several museums are located in Basel's Old Town.",
+                "answer": true
+            }
+        ],
+        "architecture": [
+            {
+                "question": "St. Paul's Church is built in the Neo-Gothic style.",
+                "answer": true
+            },
+            {
+                "question": "The Elisabethenkirche is a Neo-Gothic church in Basel.",
+                "answer": true
+            },
+            {
+                "question": "The House of Gelsingers is a typical example of Renaissance architecture.",
+                "answer": true
+            },
+            {
+                "question": "The Beyeler Foundation building was designed by Renzo Piano.",
+                "answer": true
+            },
+            {
+                "question": "The Lucius Portal is one of Basel's oldest architectural landmarks.",
+                "answer": false
+            },
+            {
+                "question": "Basel Town Hall is decorated with Baroque elements.",
+                "answer": false
+            },
+            {
+                "question": "The Swiss Architecture Museum is housed in a former factory.",
+                "answer": true
+            },
+            {
+                "question": "The Messe Tower is the tallest building in Basel.",
+                "answer": true
+            },
+            {
+                "question": "The Tinguely Museum is located in a building constructed in a modernist style.",
+                "answer": true
+            },
+            {
+                "question": "St. Martin's Church is an example of Romanesque architecture.",
+                "answer": false
+            }
+        ],
+        "museums": [
+            {
+                "question": "The Basel Art Museum is the oldest museum in Switzerland.",
+                "answer": true
+            },
+            {
+                "question": "There is no museum of caricatures and comics in Basel.",
+                "answer": false
+            },
+            {
+                "question": "The Beyeler Foundation is a modern art gallery.",
+                "answer": true
+            },
+            {
+                "question": "The Basel Museum of Antiquities exhibits artifacts from the ancient period.",
+                "answer": true
+            },
+            {
+                "question": "The Jean Tinguely Museum is dedicated to modern art.",
+                "answer": true
+            },
+            {
+                "question": "Basel has a museum dedicated to natural history.",
+                "answer": true
+            },
+            {
+                "question": "The Basel Museum of Music displays ancient musical instruments.",
+                "answer": true
+            },
+            {
+                "question": "The Vitra Museum is located in the suburbs of Basel.",
+                "answer": true
+            },
+            {
+                "question": "The Cult Museum is located in the center of the Old Town.",
+                "answer": false
+            },
+            {
+                "question": "Basel has a museum dedicated solely to the history of pharmacy. ",
+                "answer": true
+            }
+        ],
+        "squares": [
+            {
+                "question": "Barfüsserplatz is one of the largest squares in Basel.",
+                "answer": true
+            },
+            {
+                "question": "In Schützenmatt Park, you can see a statue of William Tell.",
+                "answer": false
+            },
+            {
+                "question": "Theaterplatz is known for its cultural events.",
+                "answer": true
+            },
+            {
+                "question": "Lenzburg Park is the largest park in Basel.",
+                "answer": false
+            },
+            {
+                "question": "Marktplatz is surrounded by historic buildings.",
+                "answer": true
+            },
+            {
+                "question": "Kleinbasel Park is located on the banks of the Rhine.",
+                "answer": true
+            },
+            {
+                "question": "Kleinstadt Square is the central shopping square of the city.",
+                "answer": false
+            },
+            {
+                "question": "Birseck Park is known for its green areas and sculptures.",
+                "answer": true
+            },
+            {
+                "question": "Stadtcasino Square is located next to the opera house.",
+                "answer": false
+            },
+            {
+                "question": "Basel has a Japanese garden in Merian Park.",
+                "answer": true
+            }
+        ],
+        "buildings": [
+            {
+                "question": "The Basel Minster is a former Catholic cathedral.",
+                "answer": true
+            },
+            {
+                "question": "St. Leonard's Church is the oldest church in Basel.",
+                "answer": false
+            },
+            {
+                "question": "There are no synagogues in Basel.",
+                "answer": false
+            },
+            {
+                "question": "The Elisabethenkirche was built in the 19th century.",
+                "answer": true
+            },
+            {
+                "question": "St. Peter's Church is famous for its Gothic stained glass windows.",
+                "answer": false
+            },
+            {
+                "question": "St. Michael's Chapel is located in Kleinbasel.",
+                "answer": true
+            },
+            {
+                "question": "St. Paul's Church has the highest Neo-Gothic building in Basel.",
+                "answer": false
+            },
+            {
+                "question": "There are several monasteries in Basel.",
+                "answer": true
+            },
+            {
+                "question": "St. Oswald's Church was built in the Baroque style.",
+                "answer": false
+            },
+            {
+                "question": "The Basel Minster is the burial place of Erhard, the founder of Basel.",
+                "answer": true
+            }
+        ],
+        "markets": [
+            {
+                "question": "Marktplatz is the site of one of Basel's oldest markets.",
+                "answer": true
+            },
+            {
+                "question": "Freie Strasse is known as Basel's main shopping street.",
+                "answer": true
+            },
+            {
+                "question": "There are no year-round markets in Basel.",
+                "answer": false
+            },
+            {
+                "question": "Kleinstadt Street specializes in antique sales.",
+                "answer": false
+            },
+            {
+                "question": "Basel has a market specializing in book sales.",
+                "answer": true
+            },
+            {
+                "question": "Basel's Christmas Market is considered one of the largest in Europe.",
+                "answer": true
+            },
+            {
+                "question": "Bruckplatz Market is famous for its local delicacies and products.",
+                "answer": true
+            },
+            {
+                "question": "Kleinbasel Street is the center of designer boutiques.",
+                "answer": false
+            },
+            {
+                "question": "A weekly flea market is held on Petersgasse Street in Basel.",
+                "answer": true
+            },
+            {
+                "question": "Gempenplatz Street is known for its souvenir shops.",
+                "answer": false
+            }
+        ],
+        "bridges": [
+            {
+                "question": "The Mittlere Brücke is the oldest bridge over the Rhine in Basel.",
+                "answer": true
+            },
+            {
+                "question": "The Kleiner Brücke connects the two half-cantons of Basel.",
+                "answer": false
+            },
+            {
+                "question": "The Dreiländerbrücke connects Switzerland, France, and Germany.",
+                "answer": true
+            },
+            {
+                "question": "The Lange Erlen Bridge is the longest bridge in Basel.",
+                "answer": false
+            },
+            {
+                "question": "The Autoverladbrücke connects the north and south of Basel.",
+                "answer": false
+            },
+            {
+                "question": "The Solothurn Bridge is located near the historic city center.",
+                "answer": false
+            },
+            {
+                "question": "The Mittlere Brücke was built in the 12th century.",
+                "answer": false
+            },
+            {
+                "question": "The Kleinbasel Bridge was built in the 19th century.",
+                "answer": true
+            },
+            {
+                "question": "The Laupen Bridge connects Basel with its suburbs.",
+                "answer": true
+            },
+            {
+                "question": "The St. Jakob Bridge is considered one of the most beautiful bridges in Basel.",
+                "answer": true
+            }
+        ],
+        "structures": [
+            {
+                "question": "The Messe Basel building is known for its unique design.",
+                "answer": true
+            },
+            {
+                "question": "The House of Chervona is the residence of the mayor of Basel.",
+                "answer": false
+            },
+            {
+                "question": "The Kunsthalle Basel is dedicated to contemporary art.",
+                "answer": true
+            },
+            {
+                "question": "The Spitex building was constructed in the 16th century.",
+                "answer": false
+            },
+            {
+                "question": "The Roche Tower houses the offices of a pharmaceutical company.",
+                "answer": true
+            },
+            {
+                "question": "The Direction House was the headquarters of the International Committee of the Red Cross.",
+                "answer": false
+            },
+            {
+                "question": "The House of Leonardo da Vinci is a museum dedicated to his inventions.",
+                "answer": false
+            },
+            {
+                "question": "The Hausen building housed one of Basel's first universities.",
+                "answer": true
+            },
+            {
+                "question": "The Dunker House is a typical example of Art Deco architecture.",
+                "answer": false
+            },
+            {
+                "question": "Basel is home to one of the oldest breweries in Switzerland.",
+                "answer": true
+            }
+        ],
+        "events": [
+            {
+                "question": "Basel Carnival is the largest in Switzerland.",
+                "answer": true
+            },
+            {
+                "question": "The Art Basel festival has been held annually since 1970.",
+                "answer": true
+            },
+            {
+                "question": "There are no international music festivals in Basel.",
+                "answer": false
+            },
+            {
+                "question": "Basel's Christmas market is one of the largest in Switzerland.",
+                "answer": true
+            },
+            {
+                "question": "The Food and Wine Festival is held annually in Basel.",
+                "answer": true
+            },
+            {
+                "question": "Basel hosts an annual street art festival.",
+                "answer": true
+            },
+            {
+                "question": "Museum Night in Basel attracts thousands of visitors.",
+                "answer": true
+            },
+            {
+                "question": "The Summer Jazz Festival is one of the city's main musical events.",
+                "answer": true
+            },
+            {
+                "question": "Basel hosts a festival dedicated to contemporary dance.",
+                "answer": true
+            },
+            {
+                "question": "Marktplatz hosts an annual medieval culture festival.",
+                "answer": true
+            }
+        ],
+        "facts": [
+            {
+                "question": "Basel was founded by the Romans in the 1st century BC.",
+                "answer": true
+            },
+            {
+                "question": "In the Middle Ages, Basel was a center of alchemy.",
+                "answer": true
+            },
+            {
+                "question": "Basel was an independent city-state until the 17th century.",
+                "answer": false
+            },
+            {
+                "question": "Basel is home to one of the oldest universities in Europe.",
+                "answer": true
+            },
+            {
+                "question": "Legend has it that Basel was saved from a serpent invasion by St. George.",
+                "answer": false
+            },
+            {
+                "question": "In the 16th century, Basel was an important center of printing.",
+                "answer": true
+            },
+            {
+                "question": "Basel is home to one of the oldest pharmacies in Europe.",
+                "answer": true
+            },
+            {
+                "question": "The legend of the Basel Dragon tells of a monster living in the Rhine.",
+                "answer": false
+            },
+            {
+                "question": "In Basel, there is an ancient tradition of holding 'Laufen Schlag'—night races through the streets.",
+                "answer": false
+            },
+            {
+                "question": "During the Thirty Years' War, Basel remained neutral.",
+                "answer": true
+            }
+        ]
+    }
+}

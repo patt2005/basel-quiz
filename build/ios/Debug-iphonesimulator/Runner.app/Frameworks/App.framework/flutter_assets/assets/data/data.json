@@ -1,0 +1,580 @@
+{
+    "categories": {
+        "cathedrals": {
+            "title": "Cathedrals and Churches of Basel",
+            "imagePath": "assets/images/categories/cathedrals/preview_image.png",
+            "questions": [
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image1.png",
+                    "options": [
+                        "Basel Minster",
+                        "Predigerkirche",
+                        "Peterskirche"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image2.png",
+                    "options": [
+                        "St. Paul's Church",
+                        "Elisabethenkirche",
+                        "Leonhardskirche"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image3.png",
+                    "options": [
+                        "Leonhardskirche",
+                        "St. Peter's Church",
+                        "Theodorskirche"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image4.png",
+                    "options": [
+                        "St. Paul's Church",
+                        "Leonhardskirche",
+                        "Theater Basel"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image5.png",
+                    "options": [
+                        "St. Clara Church",
+                        "St. Matthew's Church",
+                        "Christuskirche"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image6.png",
+                    "options": [
+                        "Elisabethenkirche",
+                        "Theodorskirche",
+                        "Peterskirche"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image7.png",
+                    "options": [
+                        "Theodorskirche",
+                        "Peterskirche",
+                        "Elisabethenkirche"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image8.png",
+                    "options": [
+                        "Martinskirche",
+                        "Leonhardskirche",
+                        "St. Clara Church"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image9.png",
+                    "options": [
+                        "Offene Kirche Elisabethen",
+                        "Martinskirche",
+                        "Theodorskirche"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/cathedrals/image10.png",
+                    "options": [
+                        "Predigerkirche",
+                        "Leonhardskirche",
+                        "Martinskirche"
+                    ],
+                    "answerIndex": 0
+                }
+            ]
+        },
+        "bridges": {
+            "title": "Bridges of Basel",
+            "imagePath": "assets/images/categories/bridges/preview_image.png",
+            "questions": [
+                {
+                    "imagePath": "assets/images/categories/bridges/image1.png",
+                    "options": [
+                        "Kaserne Basel",
+                        "Mittlere Brücke",
+                        "Spalentor"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image2.png",
+                    "options": [
+                        "Johanniterbrücke",
+                        "Schifflände",
+                        "Marktplatz"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image3.png",
+                    "options": [
+                        "St. Alban Tor",
+                        "Münsterplatz",
+                        "Wettsteinbrücke"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image4.png",
+                    "options": [
+                        "Aeschenplatz",
+                        "Dreirosenbrücke",
+                        "Basel Zoo"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image5.png",
+                    "options": [
+                        "St. Johanns Park",
+                        "Claraplatz",
+                        "Schwarzwaldbrücke"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image6.png",
+                    "options": [
+                        "St. Alban Brücke",
+                        "Tinguely Fountain",
+                        "Museum Tinguely"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image7.png",
+                    "options": [
+                        "Dreiländerbrücke",
+                        "Novartis Campus",
+                        "Basler Münster"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image8.png",
+                    "options": [
+                        "Universität Basel",
+                        "Wettsteinbrücke",
+                        "Messe Basel"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image9.png",
+                    "options": [
+                        "Klybeckquai Brücke",
+                        "Hirzbrunnen",
+                        "Münsterhügel"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/bridges/image10.png",
+                    "options": [
+                        "Birsfelden Hydroelectric Plant",
+                        "Feldbergstrasse",
+                        "St. Alban Tal"
+                    ],
+                    "answerIndex": 0
+                }
+            ]
+        },
+        "buildings": {
+            "title": "Historical Buildings",
+            "imagePath": "assets/images/categories/buildings/preview_image.png",
+            "questions": [
+                {
+                    "imagePath": "assets/images/categories/buildings/image1.png",
+                    "options": [
+                        "Kaserne Basel",
+                        "Rathaus Basel",
+                        "Zoo Basel"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image2.png",
+                    "options": [
+                        "Münsterplatz",
+                        "Schifflände",
+                        "Spalentor"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image3.png",
+                    "options": [
+                        "St. Alban Tor",
+                        "Haus zum Kirschgarten",
+                        "Claraplatz"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image4.png",
+                    "options": [
+                        "Aeschenplatz",
+                        "Münsterhügel",
+                        "Basel Historical Museum"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image5.png",
+                    "options": [
+                        "Museum Tinguely",
+                        "Dreiländereck",
+                        "Marktplatz"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image6.png",
+                    "options": [
+                        "Mittlere Brücke",
+                        "Kunstmuseum Basel",
+                        "Barfüsserplatz"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image7.png",
+                    "options": [
+                        "Basler Münster",
+                        "Novartis Campus",
+                        "Antikenmuseum Basel"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image8.png",
+                    "options": [
+                        "Universität Basel",
+                        "Pharmazie-Historisches Museum",
+                        "Birsfelden"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image9.png",
+                    "options": [
+                        "Kaserne Basel",
+                        "Münsterplatz",
+                        "Naturhistorisches Museum Basel"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/buildings/image10.png",
+                    "options": [
+                        "Theater Basel",
+                        "Messeplatz",
+                        "St. Johanns Park"
+                    ],
+                    "answerIndex": 0
+                }
+            ]
+        },
+        "museums": {
+            "title": "Cultural Museums",
+            "imagePath": "assets/images/categories/museums/preview_image.png",
+            "questions": [
+                {
+                    "imagePath": "assets/images/categories/museums/image1.png",
+                    "options": [
+                        "Kaserne Basel",
+                        "Rathaus Basel",
+                        "Fondation Beyeler"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image2.png",
+                    "options": [
+                        "Münsterplatz",
+                        "Kunsthalle Basel",
+                        "Basel Minster"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image3.png",
+                    "options": [
+                        "Schaulager",
+                        "Haus zum Kirschgarten",
+                        "Vitra Design Museum"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image4.png",
+                    "options": [
+                        "Vitra Design Museum",
+                        "St. Johanns Park",
+                        "Basel Historical Museum"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image5.png",
+                    "options": [
+                        "Museum Tinguely",
+                        "Rathaus Basel",
+                        "Cartoonmuseum Basel"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets//imagescategories/museums/image6.png",
+                    "options": [
+                        "Museum der Kulturen Basel",
+                        "Kunstmuseum Basel",
+                        "Barfüsserplatz"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image7.png",
+                    "options": [
+                        "Basler Münster",
+                        "Spielzeug Welten Museum Basel",
+                        "Antikenmuseum Basel"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image8.png",
+                    "options": [
+                        "Universität Basel",
+                        "Swiss Architecture Museum",
+                        "Messe Basel"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image9.png",
+                    "options": [
+                        "Museum of Contemporary Art",
+                        "Münsterplatz",
+                        "Naturhistorisches Museum Basel"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/museums/image10.png",
+                    "options": [
+                        "Theater Basel",
+                        "Messeplatz",
+                        "Naturhistorisches Museum Basel"
+                    ],
+                    "answerIndex": 2
+                }
+            ]
+        },
+        "squares": {
+            "title": "Squares and Parks",
+            "imagePath": "assets/images/categories/squares/preview_image.png",
+            "questions": [
+                {
+                    "imagePath": "assets/images/categories/squares/image1.png",
+                    "options": [
+                        "Marktplatz",
+                        "Kunsthalle Basel",
+                        "Fondation Beyeler"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image2.png",
+                    "options": [
+                        "Münsterplatz",
+                        "Rathaus Basel",
+                        "Barfüsserplatz"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image3.png",
+                    "options": [
+                        "Schaulager",
+                        "Münsterplatz",
+                        "Vitra Design Museum"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image4.png",
+                    "options": [
+                        "Petersplatz",
+                        "St. Johanns Park",
+                        "Basel Historical Museum"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image5.png",
+                    "options": [
+                        "Museum Tinguely",
+                        "Rathaus Basel",
+                        "Theaterplatz"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image6.png",
+                    "options": [
+                        "Schützenmattpark",
+                        "Kunstmuseum Basel",
+                        "Barfüsserplatz"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image7.png",
+                    "options": [
+                        "Klybeckquai",
+                        "St. Johanns Park",
+                        "Antikenmuseum Basel"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image8.png",
+                    "options": [
+                        "Universität Basel",
+                        "Kannenfeldpark",
+                        "Messe Basel"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image9.png",
+                    "options": [
+                        "Museum of Contemporary Art",
+                        "Münsterplatz",
+                        "Rosentalanlage"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/squares/image10.png",
+                    "options": [
+                        "Theater Basel",
+                        "Messeplatz",
+                        "Botmingen Park"
+                    ],
+                    "answerIndex": 2
+                }
+            ]
+        },
+        "monuments": {
+            "title": "Monuments and Sculptures",
+            "imagePath": "assets/images/categories/monuments/preview_image.png",
+            "questions": [
+                {
+                    "imagePath": "assets/images/categories/monuments/image1.png",
+                    "options": [
+                        "Marktplatz",
+                        "Kunsthalle Basel",
+                        "Tinguely Fountain"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image2.png",
+                    "options": [
+                        "Hammering Man",
+                        "Rathaus Basel",
+                        "Lällekönig"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image3.png",
+                    "options": [
+                        "Schaulager",
+                        "Helvetia auf Reisen",
+                        "Vitra Design Museum"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image4.png",
+                    "options": [
+                        "Lällekönig",
+                        "St. Johanns Park",
+                        "Basel Historical Museum"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image5.png",
+                    "options": [
+                        "Museum Tinguely",
+                        "Vogel Gryff",
+                        "Theaterplatz"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image6.png",
+                    "options": [
+                        "Schützenmattpark",
+                        "Kunstmuseum Basel",
+                        "Käppelijoch Chapel"
+                    ],
+                    "answerIndex": 2
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image7.png",
+                    "options": [
+                        "Klybeckquai",
+                        "Erasmus Statue",
+                        "Antikenmuseum Basel"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image8.png",
+                    "options": [
+                        "Holbein Fountain",
+                        "Kannenfeldpark",
+                        "Messe Basel"
+                    ],
+                    "answerIndex": 0
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image9.png",
+                    "options": [
+                        "Museum of Contemporary Art",
+                        "Johann Peter Hebel Monument",
+                        "Rosentalanlage"
+                    ],
+                    "answerIndex": 1
+                },
+                {
+                    "imagePath": "assets/images/categories/monuments/image10.png",
+                    "options": [
+                        "Theater Basel",
+                        "Messeplatz",
+                        "Carnival Fountain"
+                    ],
+                    "answerIndex": 2
+                }
+            ]
+        }
+    }
+}

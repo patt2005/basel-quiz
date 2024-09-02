@@ -1,0 +1,1 @@
+ /Users/petrugrigor/Documents/basel_quiz_app/.dart_tool/flutter_build/8dbd7f4a2fbef5b9a5917f8b4c1a395a/native_assets.yaml: 
